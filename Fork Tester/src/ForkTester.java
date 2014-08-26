@@ -3,7 +3,7 @@ public class ForkTester
 
 	public static void main(String[] args)
 		{
-		// Try what you did before.  
+		System.out.println("i did this at school");  
 		// Fork this to your personal GitHub account.
 		// Download it to school and add a line.
 		// Commit that back to your GitHub account.
